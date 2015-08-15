@@ -1,0 +1,15 @@
+{
+  "name": "typescript-decorators",
+  "version": "1.0.0",
+  "description": "Examples of using typescript decorators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "decorators"
+  ],
+  "author": "Andrew Olson (andrew@olsononline.org)",
+  "license": "MIT"
+}
